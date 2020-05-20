@@ -16,3 +16,9 @@ def position_taken?(board,index)
     return true
   end
 end
+
+def greeting(name)
+  puts "Hello #{name}"
+  puts "How are you?"
+end
+  
